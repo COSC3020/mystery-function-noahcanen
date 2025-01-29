@@ -3,6 +3,8 @@
 What does the `mystery()` function in the following piece of code do? Add your
 answer to this markdown file.
 
+This function gets the largest element inside an array.
+
 ```javascript
 function mystery(a) {
     if(a.length == 1) return a[0];
